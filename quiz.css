@@ -21,3 +21,13 @@ div {
     margin-bottom: 10px;
   }
 }
+
+button {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 9px;
+  background-color: black;
+  color: white;
+  font-weight: 500;
+}

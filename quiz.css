@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+main {
+  min-height: 100vh;
+  background-color: rgba(206, 206, 237, 0.6);
+  padding: 20px;
+}
+
+div {
+  margin: 15px;
+
+  p {
+    margin-bottom: 10px;
+  }
+}

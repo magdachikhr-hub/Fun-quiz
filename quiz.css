@@ -10,8 +10,8 @@ body {
 
 main {
   min-height: 100vh;
-  background-color: rgba(206, 206, 237, 0.6);
   padding: 20px;
+  background-image: url(./picture2.jpeg);
 }
 
 div {
@@ -46,4 +46,8 @@ div.register input {
 
 h3.login {
   margin-top: 30px;
+}
+
+form {
+  font-weight: 600;
 }
